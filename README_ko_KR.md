@@ -1,4 +1,4 @@
-[en\_US](README.md) | ko\_KR
+[en\_US](README.md) | [ko\_KR](README_ko_KR.md)
 
 # bob-map
 KITRI BoB 9기 0x10팀이 개발한 출결과 위치를 확인하는 솔루션
