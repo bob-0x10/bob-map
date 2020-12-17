@@ -1,4 +1,4 @@
-[en\_US](sql/README.md) | [ko\_KR](sql/README_ko_KR.md)
+[en\_US](README.md) | [ko\_KR](README_ko_KR.md)
 
 # sql
 Database schema for bob-map system

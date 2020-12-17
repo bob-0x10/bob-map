@@ -1,4 +1,4 @@
-[en\_US](sql/README.md) | [ko\_KR](sql/README_ko_KR.md)
+[en\_US](README.md) | [ko\_KR](README_ko_KR.md)
 
 # sql
 bob-map 시스템을 위한 데이터베이스 스키마

@@ -1,4 +1,4 @@
-[en\_US](processor/README.md) | [ko\_KR](processor/README_ko_KR.md)
+[en\_US](README.md) | [ko\_KR](README_ko_KR.md)
 
 # processor
 Collect and Compute log to get attendance and position information

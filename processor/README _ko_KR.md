@@ -1,4 +1,4 @@
-[en\_US](processor/README.md) | [ko\_KR](processor/README_ko_KR.md)
+[en\_US](README.md) | [ko\_KR](README_ko_KR.md)
 
 # processor
 로그를 수집하고 계산하여 출결 및 위치 정보를 알아냄

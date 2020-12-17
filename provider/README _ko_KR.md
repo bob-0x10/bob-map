@@ -1,4 +1,4 @@
-[en\_US](provider/README.md) | [ko\_KR](provider/README_ko_KR.md)
+[en\_US](README.md) | [ko\_KR](README_ko_KR.md)
 
 # provider
 프런트엔드에 정보를 제공하는 Restful-api 서버
