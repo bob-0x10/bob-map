@@ -1,4 +1,4 @@
-# attendance-checker-node
+# node
 
 node which collect packet, parsing and send to collector for attendance-checker
 
