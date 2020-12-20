@@ -1,6 +1,5 @@
 # node
-
-node which collect packet, parsing and send to collector for attendance-checker
+collect and parse packets and send them to the collector
 
 ## How to use
 
