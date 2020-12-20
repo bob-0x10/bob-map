@@ -1,3 +1,5 @@
+[en\_US](README.md) | [ko\_KR](README_ko_KR.md)
+
 # node
 collect and parse packets and send them to the collector
 
